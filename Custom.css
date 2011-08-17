@@ -1,0 +1,7 @@
+/* Overrides devTools.css for OS X console. */
+body.platform-mac.platform-mac-snowleopard .monospace,
+body.platform-mac.platform-mac-snowleopard .source-code {
+    font-size: 12px !important;
+    font-family: Consolas, monospace;
+    line-height: 1.3em;
+}
